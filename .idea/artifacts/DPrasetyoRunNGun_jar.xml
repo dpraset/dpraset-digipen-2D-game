@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DPrasetyoRunNGun:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="DPrasetyoRunNGun.jar">
+      <element id="module-output" name="DPrasetyoRunNGun" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Downloads/Engine_202 (1)/AlphaEngine/Engine.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Downloads/Engine_202 (1)/AlphaEngine/gluegen-rt-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Downloads/Engine_202 (1)/AlphaEngine/gluegen-rt-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Downloads/Engine_202 (1)/AlphaEngine/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Downloads/Engine_202 (1)/AlphaEngine/gson-2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Downloads/Engine_202 (1)/AlphaEngine/jogl-all-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Downloads/Engine_202 (1)/AlphaEngine/jogl-all-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Downloads/Engine_202 (1)/AlphaEngine/jogl-all.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
